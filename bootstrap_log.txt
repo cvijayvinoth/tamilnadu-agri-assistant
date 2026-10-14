@@ -1,0 +1,28 @@
+==================================================================
+ TN Agriculture Schemes - knowledge base bootstrap
+==================================================================
+
+Catalogue: 5 distinct source URL(s) from sources.csv
+
+[1/5] Kalaignarin All Village Integrated Agricultural Deve
+      SKIP  - already indexed (same content hash)
+
+[2/5] Kalaignarin All Village Integrated Agricultural Deve
+      SKIP  - already indexed (same content hash)
+
+[3/5] CM's Mannuyir Kaathu Mannuyir Kaappom Scheme
+      OK    - 156 chunks in 12.1s
+
+[4/5] Tamil Nadu Millet Mission
+      SKIP  - already indexed (same content hash)
+
+[5/5] Pulses Development Scheme
+      OK    - 342 chunks in 2.4s
+
+==================================================================
+ Indexed 2 | skipped 3 | failed 0  (38.7s)
+ Knowledge base: 908 chunks from 5 document(s)
+==================================================================
+
+Now run:  streamlit run app.py
+
